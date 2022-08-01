@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 test1
 test2
 test3
 test4
+=======
+test1
+test2
+test3
+>>>>>>> 041481796a44ff04d0b8a4682b5f1d6ad9cfe59d
